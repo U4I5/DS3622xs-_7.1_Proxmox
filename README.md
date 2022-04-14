@@ -52,7 +52,7 @@
       
   - Elle vous permettra de recréer Un autre  Nas en VM sur proxmox sans refaire tout la procedure de compilation
   
-  ## Action Finale Pour Sauvegarder Votre Session dans Tiny Core 
+  ## Sauvegarder Votre Session dans Tiny Core 
   
   - Taper cette commande :
   
