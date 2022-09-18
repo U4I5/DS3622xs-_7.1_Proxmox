@@ -44,7 +44,7 @@
         > ./rploader.sh build broadwellnk-7.1.0-42661
    
   ## Récupération du Fichier loader.img
-  - le fichier **loader.img** est le fichier Contenant la compilation finale de la version **7.1** du Model **DS3622xs+** avec le pilote de la carte reseau**intel e1000**
+  - le fichier **loader.img** est le fichier Contenant la compilation finale de la version **7.1** du Model **DS3622xs+** avec le pilote de la carte reseau **intel e1000**
   - Vous Pouvez la recupérer avec **Filezilla** ou **scp** et le mettre sur votre PC
   - L'emplacement du fichier loader
   
